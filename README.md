@@ -2,9 +2,6 @@
 
 Rating Product & Sorting Reviews of Amazon Homework of Miuul Data Science & Machine Learning Bootcamp
 
-
-<a href="http://www.freepik.com">Designed by vectorjuice / Freepik</a>
-
 ## Business Problem
 
 One of the most important problems in e-commerce is the correct calculation of the points given to the products after
